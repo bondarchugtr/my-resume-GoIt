@@ -3,6 +3,19 @@ body {background-color: #F5F7FA;
 
 }
 
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "avoid",
+  "proseWrap": "always"
+}
+
 .About-me-Profession {
     font-size: 14px;
     font-weight: 700;
@@ -80,10 +93,15 @@ body {background-color: #F5F7FA;
     margin-bottom: 50px;
 } 
 
+
+
 .my-prodject-item{
     color: #000;
     font-weight: bold;
+    display: inline-block;
+    
 }
+
 
 .my-prodject-text{
     font-style: normal;
@@ -285,13 +303,4 @@ color: #FB6D3A;
     line-height: 17px;
     color: #000000;
 
-}
-
-.My-education-section-other{
-
-    font-style: normal;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 17px;
-    color: #000000;
 }
