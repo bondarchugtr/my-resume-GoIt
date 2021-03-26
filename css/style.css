@@ -3,18 +3,7 @@ body {background-color: #F5F7FA;
 
 }
 
-{
-  "printWidth": 80,
-  "tabWidth": 2,
-  "useTabs": false,
-  "semi": true,
-  "singleQuote": true,
-  "trailingComma": "all",
-  "bracketSpacing": true,
-  "jsxBracketSameLine": false,
-  "arrowParens": "avoid",
-  "proseWrap": "always"
-}
+
 
 .About-me-Profession {
     font-size: 14px;
